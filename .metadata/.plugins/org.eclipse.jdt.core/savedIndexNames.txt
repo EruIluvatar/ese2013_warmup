@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+/windows/Users/Stefan/Documents/Uni/Informatik/ESE/ese2013_warmup/.metadata/.plugins/org.eclipse.jdt.core
+108444829.index
+3769224442.index

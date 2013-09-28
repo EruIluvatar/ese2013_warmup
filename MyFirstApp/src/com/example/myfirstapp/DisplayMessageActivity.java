@@ -1,6 +1,7 @@
 package com.example.myfirstapp;
 
 import android.annotation.SuppressLint;
+//import android.annotation.TargetApi;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
